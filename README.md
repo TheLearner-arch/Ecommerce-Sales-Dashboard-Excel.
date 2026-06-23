@@ -12,7 +12,8 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 
 ## 📂 Dataset
 - 5000+ rows of e‑commerce transactions  
-- Fields include: Order ID, Order Date, Customer Name, Region, City, Category, Sub‑Category, Product Name, Quantity, Unit Price, Sales, Profit, Discount, Payment Mode, Month, Year  
+- Fields include: Order ID, Order Date, Customer Name, Region, City, Category, Sub‑Category, Product Name, Quantity, Unit Price, Sales, Profit, Discount, Payment Mode, Month, Year
+- Dataset source - https://www.kaggle.com/datasets/prince7489/e-commerce-sales
 
 ---
 
@@ -21,7 +22,6 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 - **Average Order Value (₹)**  
 - **Revenue Trend (Monthly Sales)**  
 - **Top‑Performing Products (by Sales)**  
-- *(Optional)* Profit Margin %  
 
 ---
 
@@ -34,9 +34,7 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
-*(Replace `dashboard.png` with the actual screenshot of your final dashboard — upload the image to the repo and use its filename here.)*
+<img width="847" height="832" alt="image" src="https://github.com/user-attachments/assets/90cfc919-e424-4519-a737-a0c7f01b9ead" />
 
 ---
 
