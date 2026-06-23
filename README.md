@@ -40,9 +40,6 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 ---
 
 ## 🎥 Demo
-[Watch 20‑second demo video](https://link-to-your-video.com)
-
-*(Replace with your LinkedIn video link or YouTube demo link once uploaded.)*
 
 ---
 
