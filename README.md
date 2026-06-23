@@ -39,7 +39,8 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo GIF
+<img width="764" height="762" alt="Final Upload GIF" src="https://github.com/user-attachments/assets/78964758-3b59-4b8f-bd3b-6ff8a443e8ee" />
 
 ---
 
