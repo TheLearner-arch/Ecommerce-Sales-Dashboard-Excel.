@@ -2,7 +2,7 @@
 
 Interactive Excel dashboard analyzing 5000+ e‑commerce transactions with KPI cards, slicers, and charts.
 
-# Final Dashboard Excel File
+## 𝄜 Final Dashboard Excel File
 This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https://github.com/user-attachments/files/29235151/Ecommerce.DashBoard.xlsx)
 
 ---
