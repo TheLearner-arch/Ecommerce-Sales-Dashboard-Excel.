@@ -1,19 +1,61 @@
-# Ecommerce-Sales-Dashboard-Excel.
-Interactive Excel dashboard analyzing 5000+ e‑commerce transactions with KPI cards, slicers, and charts
-Project Title
-  Ecommerce Sales Dashboard
+# Ecommerce Sales Dashboard (Excel)
 
-Dataset  
-  5000+ rows of e‑commerce transactions (Orders, Sales, Profit, Region, Category, etc.)
+Interactive Excel dashboard analyzing 5000+ e‑commerce transactions with KPI cards, slicers, and charts.
 
-KPIs 
-  Total Sales, AOV, Revenue Trend, Top Products
+---
 
-Features 
-  Interactive slicers (Region, Category, Year), PivotTables, KPI cards
+## 📊 Project Overview
+This project demonstrates how raw e‑commerce data can be transformed into an interactive dashboard using Excel PivotTables, KPI cards, and slicers.  
+The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trends, and Top‑Performing Products**.
 
-Demo 
-  Add screenshots or link to your 20‑sec video demo.
+---
 
-Learning Outcome 
-  Excel PivotTables, KPI definition, dashboard design.
+## 📂 Dataset
+- 5000+ rows of e‑commerce transactions  
+- Fields include: Order ID, Order Date, Customer Name, Region, City, Category, Sub‑Category, Product Name, Quantity, Unit Price, Sales, Profit, Discount, Payment Mode, Month, Year  
+
+---
+
+## 🎯 Key Performance Indicators (KPIs)
+- **Total Sales (₹)**  
+- **Average Order Value (₹)**  
+- **Revenue Trend (Monthly Sales)**  
+- **Top‑Performing Products (by Sales)**  
+- *(Optional)* Profit Margin %  
+
+---
+
+## ✨ Features
+- Interactive **slicers** (Region, Category, Year)  
+- Dynamic **KPI cards** for headline metrics  
+- PivotTables for calculations  
+- Clean layout with charts for trends and comparisons  
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
+
+*(Replace `dashboard.png` with the actual screenshot of your final dashboard — upload the image to the repo and use its filename here.)*
+
+---
+
+## 🎥 Demo
+[Watch 20‑second demo video](https://link-to-your-video.com)
+
+*(Replace with your LinkedIn video link or YouTube demo link once uploaded.)*
+
+---
+
+## 🧠 Learning Outcomes
+- Excel PivotTables for KPI calculation  
+- Dashboard design principles (layout, interactivity, storytelling)  
+- Use of slicers for dynamic filtering  
+- Documentation and portfolio presentation via GitHub  
+
+---
+
+## 🔗 Links
+- [LinkedIn Post](https://www.linkedin.com/in/yourprofile)  
+- [Video Demo](https://link-to-your-video.com)  
+
