@@ -57,5 +57,5 @@ The dashboard highlights **Total Sales, Average Order Value (AOV), Revenue Trend
 ---
 
 ## 🔗 Links
-- [LinkedIn Post](https://www.linkedin.com/in/yourprofile)  
+- https://www.linkedin.com/feed/update/urn:li:activity:7475067973880205313/
 
